@@ -2,7 +2,7 @@ ibm-apic-mgmt-instance:
   ibmapicmgmtinstance:
     name: management
     spec:
-      version: 10.0.6.0-3968
+      version: 10.0.7.0-5560
       profile: n3xc4.m16
       portal:
         admin:
@@ -47,5 +47,5 @@ ibm-apic-mgmt-instance:
         kind: Issuer
       license:
         accept: true
-        license: L-RJON-BZEP9N
+        license: L-MMBZ-295QZQ
         use: production
