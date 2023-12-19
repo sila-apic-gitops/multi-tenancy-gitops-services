@@ -2,7 +2,7 @@ ibm-apic-gtw-instance:
   ibmapicgtwinstance:
     name: gateway
     spec:
-      version: 10.0.6.0-3968
+      version: 10.0.7.0-5560
       profile: n3xc4.m8
       apicGatewayServiceV5CompatibilityMode: false
       gatewayEndpoint:
@@ -24,7 +24,7 @@ ibm-apic-gtw-instance:
       datapowerLogLevel: 3
       license:
         accept: true
-        license: L-RJON-BZEP9N
+        license: L-MMBZ-295QZQ
         use: production
       tokenManagementService:
         enabled: true
