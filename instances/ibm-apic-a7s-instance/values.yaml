@@ -2,7 +2,7 @@ ibm-apic-a7s-instance:
   ibmapica7sinstance:
     name: analytics
     spec:
-      version: 10.0.6.0-3968
+      version: 10.0.5.5-6227
       license:
         accept: true
         license: L-RJON-BZEP9N

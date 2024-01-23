@@ -2,7 +2,7 @@ ibm-apic-ptl-instance:
   ibmapicptlinstance:
     name: portal
     spec:
-      version: 10.0.6.0-3968
+      version: 10.0.5.5-6227
       profile: n3xc4.m8
       portalAdminEndpoint:
         annotations:
