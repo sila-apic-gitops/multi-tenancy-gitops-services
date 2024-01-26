@@ -7,4 +7,4 @@ ibm-apic-instance:
         use: production
         license: L-RJON-BZEP9N
       version: 10.0.5.5-6227
-      profile: n3xc14.m48
+      profile: n1xc7.m48
