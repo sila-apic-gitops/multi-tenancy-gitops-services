@@ -5,7 +5,7 @@ openshift-serverless:
       labels:
         gitops.tier.group: serverless
       subscription:
-        channel: stable
+        channel: latest
         installPlanApproval: Automatic
         name: serverless-operator
         source: redhat-operators
