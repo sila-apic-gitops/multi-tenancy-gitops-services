@@ -3,7 +3,7 @@ kind: Subscription
 metadata:
   name: openshift-gitops-operator
 spec:
-  channel: stable
+  channel: latest
   installPlanApproval: Automatic
   name: openshift-gitops-operator
   source: redhat-operators
