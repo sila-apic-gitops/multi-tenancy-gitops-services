@@ -1,6 +1,6 @@
 ibm-apic-instance:
   ibmapicinstance:
-    name: apic-cluster
+    name: apic-argo-cluster
     spec:
       license:
         accept: true
